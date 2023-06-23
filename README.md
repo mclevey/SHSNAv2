@@ -1,4 +1,4 @@
-<a href="https://us.sagepub.com/en-us/nam/the-sage-handbook-of-social-network-analysis/book277881"><img src="http://www.johnmclevey.com/assets/images/dcss_cover.png" width="150"  align="right"/></a>
+<a href="https://us.sagepub.com/en-us/nam/the-sage-handbook-of-social-network-analysis/book277881"><img src="https://github.com/mclevey/SHSNAv2/blob/main/SHSNAv2.png" width="150"  align="right"/></a>
 
 ## The Sage Handbook of Social Network Analysis (Volume 2)
 
