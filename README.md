@@ -1,6 +1,8 @@
+<a href="https://us.sagepub.com/en-us/nam/the-sage-handbook-of-social-network-analysis/book277881"><img src="http://www.johnmclevey.com/assets/images/dcss_cover.png" width="150"  align="right"/></a>
+
 ## The Sage Handbook of Social Network Analysis (Volume 2)
 
-This repo contains full resolution color versions of all figures that appear in *The Sage Handbook of Social Network Analysis (Volume 2)*. Each is labelled with the chapter number, chapter name, and figure number. 
+This repo contains full resolution color versions of all figures that appear in *[The Sage Handbook of Social Network Analysis (Volume 2)](https://us.sagepub.com/en-us/nam/the-sage-handbook-of-social-network-analysis/book277881)*, edited by John McLevey, John Scott, and Peter Carrington. Each figure is named using a combination of the chapter number, chapter title, and figure number. 
 
 - `01 - Introduction (Figure 1)`
 - `01 - Introduction (Figure 2)`
