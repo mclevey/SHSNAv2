@@ -1,6 +1,6 @@
-SHSNAv2
+(SHSNAv2)
 
-# The Sage Handbook of Social Network Analysis (Volume 2)
+### The Sage Handbook of Social Network Analysis (Volume 2)
 
 This repo contains full resolution color versions of all figures that appear in *The Sage Handbook of Social Network Analysis (Volume 2)*. Each is labelled with the chapter number, chapter name, and figure number. 
 
