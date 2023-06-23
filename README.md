@@ -1,2 +1,109 @@
-# SHSNAv2
-The Sage Handbook of Social Network Analysis (Volume 2)
+SHSNAv2
+
+# The Sage Handbook of Social Network Analysis (Volume 2)
+
+This repo contains full resolution color versions of all figures that appear in *The Sage Handbook of Social Network Analysis (Volume 2)*. Each is labelled with the chapter number, chapter name, and figure number. 
+
+- `01 - Introduction (Figure 1)`
+- `01 - Introduction (Figure 2)`
+- `01 - Introduction (Figure 3)`
+- `01 - Introduction (Figure 4)`
+- `02 - Introducing Social Network Analysis (Figure 1)`
+- `02 - Introducing Social Network Analysis (Figure 2)`
+- `02 - Introducing Social Network Analysis (Figure 3)`
+- `02 - Introducing Social Network Analysis (Figure 4)`
+- `06 - Socio-ecological Network Analysis (Figure 1)`
+- `06 - Socio-ecological Network Analysis (Figure 2)`
+- `06 - Socio-ecological Network Analysis (Figure 3)`
+- `06 - Socio-ecological Network Analysis (Figure 4)`
+- `06 - Socio-ecological Network Analysis (Figure 5)`
+- `07 - The Evolution of Environmental Policy Network Analysis (Figure 1)`
+- `07 - The Evolution of Environmental Policy Network Analysis (Figure 2)`
+- `07 - The Evolution of Environmental Policy Network Analysis (Figure 3)`
+- `08 - Health Behaviors and Outcomes (Figure 1)`
+- `12 - Why Can’t We Be Friends? Understanding Ethnic Relations Through Network Analysis (Figure 1)`
+- `12 - Why Can’t We Be Friends? Understanding Ethnic Relations Through Network Analysis (Figure 2)`
+- `12 - Why Can’t We Be Friends? Understanding Ethnic Relations Through Network Analysis (Figure 3)`
+- `14 - Semantic and Cultural Networks (Figure 1)`
+- `16 - Historical Network Analysis (Figure 1)`
+- `17 - Crime and Social Networks (Figure 1)`
+- `18 - Scientific Networks (Figure 1)`
+- `18 - Scientific Networks (Figure 2)`
+- `18 - Scientific Networks (Figure 3)`
+- `22 - Social Capital (Figure 1)`
+- `22 - Social Capital (Figure 2)`
+- `22 - Social Capital (Figure 3)`
+- `23 - Social Support (Figure 1)`
+- `23 - Social Support (Figure 2)`
+- `26 - Centrality Analysis (Figure 1)`
+- `26 - Centrality Analysis (Figure 2)`
+- `26 - Centrality Analysis (Figure 3)`
+- `28 - Multi-mode Networks (Figure 1)`
+- `28 - Multi-mode Networks (Figure 2)`
+- `28 - Multi-mode Networks (Figure 3)`
+- `28 - Multi-mode Networks (Figure 4)`
+- `29 - Blockmodeling, Positions and Roles (Figure 1)`
+- `29 - Blockmodeling, Positions and Roles (Figure 2)`
+- `29 - Blockmodeling, Positions and Roles (Figure 3)`
+- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (FFigure 7 Subplot A)`
+- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (FFigure 7 Subplot B)`
+- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 1)`
+- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 2)`
+- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 3)`
+- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 4)`
+- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 5)`
+- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 6)`
+- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 7 Subplot C)`
+- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 7 Subplot D)`
+- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 8 Subplot A)`
+- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 8 Subplot B)`
+- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 8 Subplot C)`
+- `31 - Personal Networks and Egocentric Analysis (Figure 1)`
+- `32 - Multilevel Network Models (Figure 1)`
+- `32 - Multilevel Network Models (Figure 2)`
+- `32 - Multilevel Network Models (Figure 3)`
+- `33 - Exponential Random Graph Models (Figure 1)`
+- `33 - Exponential Random Graph Models (Figure 10)`
+- `33 - Exponential Random Graph Models (Figure 11)`
+- `33 - Exponential Random Graph Models (Figure 12)`
+- `33 - Exponential Random Graph Models (Figure 2)`
+- `33 - Exponential Random Graph Models (Figure 3)`
+- `33 - Exponential Random Graph Models (Figure 4)`
+- `33 - Exponential Random Graph Models (Figure 5)`
+- `33 - Exponential Random Graph Models (Figure 6)`
+- `33 - Exponential Random Graph Models (Figure 7)`
+- `33 - Exponential Random Graph Models (Figure 8)`
+- `33 - Exponential Random Graph Models (Figure 9)`
+- `34 - Structural Cohesion and Cohesive Subgroups (Figure 1)`
+- `34 - Structural Cohesion and Cohesive Subgroups (Figure 2)`
+- `34 - Structural Cohesion and Cohesive Subgroups (Figure 3)`
+- `34 - Structural Cohesion and Cohesive Subgroups (Figure 4)`
+- `34 - Structural Cohesion and Cohesive Subgroups (Figure 5)`
+- `34 - Structural Cohesion and Cohesive Subgroups (Figure 6)`
+- `36 - Latent Space Approaches to Network Analysis (Figure 1)`
+- `36 - Latent Space Approaches to Network Analysis (Figure 2 (SUBPLOT 1))`
+- `36 - Latent Space Approaches to Network Analysis (Figure 2 (SUBPLOT 2))`
+- `36 - Latent Space Approaches to Network Analysis (Figure 3)`
+- `36 - Latent Space Approaches to Network Analysis (Figure 4)`
+- `37 - Negative Ties and Signed Graphs (Figure 1)`
+- `37 - Negative Ties and Signed Graphs (Figure 2)`
+- `37 - Negative Ties and Signed Graphs (Figure 3)`
+- `37 - Negative Ties and Signed Graphs (Figure 4)`
+- `37 - Negative Ties and Signed Graphs (Figure 5)`
+- `37 - Negative Ties and Signed Graphs (Figure 6)`
+- `37 - Negative Ties and Signed Graphs (Figure 7)`
+- `37 - Negative Ties and Signed Graphs (Figure 8)`
+- `42 - Scientific Software for Network Analysis (Figure 1)`
+- `42 - Scientific Software for Network Analysis (Figure 10)`
+- `42 - Scientific Software for Network Analysis (Figure 11)`
+- `42 - Scientific Software for Network Analysis (Figure 12)`
+- `42 - Scientific Software for Network Analysis (Figure 13)`
+- `42 - Scientific Software for Network Analysis (Figure 14)`
+- `42 - Scientific Software for Network Analysis (Figure 2)`
+- `42 - Scientific Software for Network Analysis (Figure 3)`
+- `42 - Scientific Software for Network Analysis (Figure 4)`
+- `42 - Scientific Software for Network Analysis (Figure 5)`
+- `42 - Scientific Software for Network Analysis (Figure 6)`
+- `42 - Scientific Software for Network Analysis (Figure 7)`
+- `42 - Scientific Software for Network Analysis (Figure 8)`
+- `42 - Scientific Software for Network Analysis (Figure 9)`
