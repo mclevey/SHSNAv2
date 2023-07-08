@@ -2,7 +2,7 @@
 
 ## The Sage Handbook of Social Network Analysis (Volume 2)
 
-This repo contains full resolution color versions of all figures that appear in *[The Sage Handbook of Social Network Analysis (Volume 2)](https://us.sagepub.com/en-us/nam/the-sage-handbook-of-social-network-analysis/book277881)*, edited by John McLevey, John Scott, and Peter Carrington. Each figure is named using a combination of the chapter number, chapter title, and figure number. 
+This repo contains full resolution color versions of most figures that appear in *[The Sage Handbook of Social Network Analysis (Volume 2)](https://us.sagepub.com/en-us/nam/the-sage-handbook-of-social-network-analysis/book277881)*, edited by John McLevey, John Scott, and Peter Carrington. The only exceptions are reproductions of figures from other publications. Each figure is named using a combination of the chapter number, chapter title, and figure number. 
 
 - `01 - Introduction (Figure 1)`
 - `01 - Introduction (Figure 2)`
@@ -21,11 +21,7 @@ This repo contains full resolution color versions of all figures that appear in 
 - `07 - The Evolution of Environmental Policy Network Analysis (Figure 2)`
 - `07 - The Evolution of Environmental Policy Network Analysis (Figure 3)`
 - `08 - Health Behaviors and Outcomes (Figure 1)`
-- `12 - Why Can’t We Be Friends? Understanding Ethnic Relations Through Network Analysis (Figure 1)`
-- `12 - Why Can’t We Be Friends? Understanding Ethnic Relations Through Network Analysis (Figure 2)`
-- `12 - Why Can’t We Be Friends? Understanding Ethnic Relations Through Network Analysis (Figure 3)`
 - `14 - Semantic and Cultural Networks (Figure 1)`
-- `16 - Historical Network Analysis (Figure 1)`
 - `17 - Crime and Social Networks (Figure 1)`
 - `18 - Scientific Networks (Figure 1)`
 - `18 - Scientific Networks (Figure 2)`
@@ -45,19 +41,19 @@ This repo contains full resolution color versions of all figures that appear in 
 - `29 - Blockmodeling, Positions and Roles (Figure 1)`
 - `29 - Blockmodeling, Positions and Roles (Figure 2)`
 - `29 - Blockmodeling, Positions and Roles (Figure 3)`
-- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (FFigure 7 Subplot A)`
-- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (FFigure 7 Subplot B)`
-- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 1)`
-- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 2)`
-- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 3)`
-- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 4)`
-- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 5)`
-- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 6)`
-- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 7 Subplot C)`
-- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 7 Subplot D)`
-- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 8 Subplot A)`
-- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 8 Subplot B)`
-- `30 - Inferential Network Clustering with Hierachical Bayesian Stochastic Blockodels (Figure 8 Subplot C)`
+- `30 - Inferential Network Clustering with HBSBMs (Figure 7 Subplot A)`
+- `30 - Inferential Network Clustering with HBSBMs (Figure 7 Subplot B)`
+- `30 - Inferential Network Clustering with HBSBMs (Figure 1)`
+- `30 - Inferential Network Clustering with HBSBMs (Figure 2)`
+- `30 - Inferential Network Clustering with HBSBMs (Figure 3)`
+- `30 - Inferential Network Clustering with HBSBMs (Figure 4)`
+- `30 - Inferential Network Clustering with HBSBMs (Figure 5)`
+- `30 - Inferential Network Clustering with HBSBMs (Figure 6)`
+- `30 - Inferential Network Clustering with HBSBMs (Figure 7 Subplot C)`
+- `30 - Inferential Network Clustering with HBSBMs (Figure 7 Subplot D)`
+- `30 - Inferential Network Clustering with HBSBMs (Figure 8 Subplot A)`
+- `30 - Inferential Network Clustering with HBSBMs (Figure 8 Subplot B)`
+- `30 - Inferential Network Clustering with HBSBMs (Figure 8 Subplot C)`
 - `31 - Personal Networks and Egocentric Analysis (Figure 1)`
 - `32 - Multilevel Network Models (Figure 1)`
 - `32 - Multilevel Network Models (Figure 2)`
@@ -85,7 +81,6 @@ This repo contains full resolution color versions of all figures that appear in 
 - `36 - Latent Space Approaches to Network Analysis (Figure 2 (SUBPLOT 2))`
 - `36 - Latent Space Approaches to Network Analysis (Figure 3)`
 - `36 - Latent Space Approaches to Network Analysis (Figure 4)`
-- `37 - Negative Ties and Signed Graphs (Figure 1)`
 - `37 - Negative Ties and Signed Graphs (Figure 2)`
 - `37 - Negative Ties and Signed Graphs (Figure 3)`
 - `37 - Negative Ties and Signed Graphs (Figure 4)`
@@ -107,3 +102,20 @@ This repo contains full resolution color versions of all figures that appear in 
 - `42 - Scientific Software for Network Analysis (Figure 7)`
 - `42 - Scientific Software for Network Analysis (Figure 8)`
 - `42 - Scientific Software for Network Analysis (Figure 9)`
+
+# Copyrights
+
+- Chapter 1 © John McLevey, John Scott, Peter J. Carrington, 2024
+- Chapter 2 © Christina Prell and David R. Schaefer, 2024
+- Chapter 6 © Örjan Bodin, 2024
+- Chapter 7 © Tyler A. Scott, Mark Lubell and Gwen Arnold UC Davis, 2024
+- Chapter 8 © Kayla de la Haye, 2024
+- Chapter 14 © Sarah Shugars and Sandra González-Bailón, 2024
+- Chapter 16 © Donghyun Kang and James Evans, 2024
+- Chapter 17 © Marie Ouellet and Logan Ledford, 2024
+- Chapter 22 © Beate Völker, 2024
+- Chapter 23 © Lijun Song and Zhe Zhang, 2024
+- Chapter 26 © M G Everett and S P Borgatti, 2024
+- Chapter 27 © James Moody and Peter J. Mucha., 2024
+- Chapter 28 © Lorien Jasny, 2024
+- Chapter 29 © Patrick Doreian, Anuška Ferligoj, and Vladimir Batagelj
